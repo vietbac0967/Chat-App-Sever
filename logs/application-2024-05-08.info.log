@@ -1,0 +1,129 @@
+[2024-05-08 23:25:46] info: Server is running on port 5000
+[2024-05-08 23:25:46] info: Connected to MongoDB
+[2024-05-08 23:25:46] info: Connected to Redis!
+[2024-05-08 23:26:01] info: Get metrics for prometheus
+[2024-05-08 23:26:34] info: Server is running on port 5000
+[2024-05-08 23:26:34] info: Connected to MongoDB
+[2024-05-08 23:26:34] info: Connected to Redis!
+[2024-05-08 23:26:43] info: Get metrics for prometheus
+[2024-05-08 23:26:43] http: ::1 GET /metrics 200 6961 - 86.599 ms
+
+[2024-05-08 23:27:43] info: Server is running on port 5000
+[2024-05-08 23:27:43] info: Connected to MongoDB
+[2024-05-08 23:27:43] info: Connected to Redis!
+[2024-05-08 23:27:52] info: Server is running on port 5000
+[2024-05-08 23:27:52] info: Connected to MongoDB
+[2024-05-08 23:27:52] info: Connected to Redis!
+[2024-05-08 23:28:12] info: Server is running on port 5000
+[2024-05-08 23:28:13] info: Connected to MongoDB
+[2024-05-08 23:28:13] info: Connected to Redis!
+[2024-05-08 23:28:44] http: ::1 POST /api/auth/refreshToken 200 62 - 72.676 ms
+
+[2024-05-08 23:30:01] info: Server is running on port 5000
+[2024-05-08 23:30:01] info: Connected to MongoDB
+[2024-05-08 23:30:01] info: Connected to Redis!
+[2024-05-08 23:30:18] info: Server is running on port 5000
+[2024-05-08 23:30:18] info: Connected to MongoDB
+[2024-05-08 23:30:18] info: Connected to Redis!
+[2024-05-08 23:30:32] info: Server is running on port 5000
+[2024-05-08 23:30:39] info: Server is running on port 5000
+[2024-05-08 23:30:39] info: Connected to MongoDB
+[2024-05-08 23:30:39] info: Connected to Redis!
+[2024-05-08 23:31:08] info: Server is running on port 5000
+[2024-05-08 23:31:08] info: Connected to MongoDB
+[2024-05-08 23:31:08] info: Connected to Redis!
+[2024-05-08 23:31:25] error: Token and redis token are not the same
+[2024-05-08 23:31:25] http: ::1 POST /api/auth/refreshToken 200 62 - 101.457 ms
+
+[2024-05-08 23:32:54] info: Server is running on port 5000
+[2024-05-08 23:32:55] info: Connected to MongoDB
+[2024-05-08 23:32:55] info: Connected to Redis!
+[2024-05-08 23:33:40] info: {
+  _id: new ObjectId('661122fea1143433f884b2e8'),
+  name: 'Lora Keeling V',
+  phoneNumber: '0347534358',
+  email: 'vietbacnguyen2002@gmail.com',
+  gender: 'Nam',
+  password: '$2b$10$eSsWJexjt5jiNRtrnIqddeBS7oGFm0w25yhFn/OpAYEVy4ohu5B/G',
+  is_online: '0',
+  verify: true,
+  avatar: 'https://res.cloudinary.com/dujylxkra/image/upload/v1713328095/juq6m16vr1swiqzzynhh.jpg',
+  friends: [
+    new ObjectId('661122fea1143433f884b2e6'),
+    new ObjectId('661122ffa1143433f884b2f2'),
+    new ObjectId('661122ffa1143433f884b2f0')
+  ],
+  friendRequests: [],
+  sentFriendRequests: [],
+  createdAt: 2024-04-06T10:25:02.812Z,
+  updatedAt: 2024-05-07T14:26:31.915Z,
+  __v: 54,
+  groups: [
+    new ObjectId('66363e45e69f14c4be298d60'),
+    new ObjectId('66363e45e69f14c4be298d60')
+  ],
+  role: 'user'
+}
+[2024-05-08 23:33:40] http: ::1 POST /api/auth/login 200 407 - 318.021 ms
+
+[2024-05-08 23:34:25] info: Server is running on port 5000
+[2024-05-08 23:34:25] info: Connected to MongoDB
+[2024-05-08 23:34:26] info: Connected to Redis!
+[2024-05-08 23:37:54] info: Server is running on port 5000
+[2024-05-08 23:37:54] info: Connected to MongoDB
+[2024-05-08 23:37:55] info: Connected to Redis!
+[2024-05-08 23:38:40] info: Get metrics for prometheus
+[2024-05-08 23:38:41] http: ::ffff:172.31.208.1 GET /metrics 200 7999 - 114.118 ms
+
+[2024-05-08 23:39:40] info: Get metrics for prometheus
+[2024-05-08 23:39:41] http: ::ffff:172.31.208.1 GET /metrics 200 8550 - 203.891 ms
+
+[2024-05-08 23:40:40] info: Get metrics for prometheus
+[2024-05-08 23:40:40] http: ::ffff:172.31.208.1 GET /metrics 200 8552 - 8.014 ms
+
+[2024-05-08 23:41:40] info: Get metrics for prometheus
+[2024-05-08 23:41:40] http: ::ffff:172.31.208.1 GET /metrics 200 8538 - 7.430 ms
+
+[2024-05-08 23:42:40] info: Get metrics for prometheus
+[2024-05-08 23:42:40] http: ::ffff:172.31.208.1 GET /metrics 200 8548 - 17.252 ms
+
+[2024-05-08 23:42:46] error: Token and redis token are not the same
+[2024-05-08 23:42:46] http: ::1 POST /api/auth/refreshToken 200 62 - 53.299 ms
+
+[2024-05-08 23:43:40] info: Get metrics for prometheus
+[2024-05-08 23:43:40] http: ::ffff:172.31.208.1 GET /metrics 200 8549 - 8.076 ms
+
+[2024-05-08 23:44:40] info: Get metrics for prometheus
+[2024-05-08 23:44:40] http: ::ffff:172.31.208.1 GET /metrics 200 8537 - 6.154 ms
+
+[2024-05-08 23:45:40] info: Get metrics for prometheus
+[2024-05-08 23:45:40] http: ::ffff:172.31.208.1 GET /metrics 200 8565 - 7.272 ms
+
+[2024-05-08 23:49:57] info: Server is running on port 5000
+[2024-05-08 23:49:57] info: Connected to MongoDB
+[2024-05-08 23:49:58] info: Connected to Redis!
+[2024-05-08 23:50:17] http: ::1 GET /docs/ 200 3106 - 14.958 ms
+
+[2024-05-08 23:50:18] http: ::1 GET /docs/swagger-ui-init.js 200 34952 - 1.611 ms
+
+[2024-05-08 23:50:18] http: ::1 GET /docs/swagger-ui.css 200 - - 53.133 ms
+
+[2024-05-08 23:50:18] http: ::1 GET /docs/swagger-ui-standalone-preset.js 200 - - 364.865 ms
+
+[2024-05-08 23:50:18] http: ::1 GET /docs/swagger-ui-bundle.js 200 - - 524.670 ms
+
+[2024-05-08 23:50:22] http: ::1 GET /docs/favicon-32x32.png 200 628 - 14.870 ms
+
+[2024-05-08 23:53:38] info: Server is running on port 5000
+[2024-05-08 23:53:38] info: Connected to MongoDB
+[2024-05-08 23:53:38] info: Connected to Redis!
+[2024-05-08 23:53:46] http: ::1 GET /docs/ 304 - - 98.597 ms
+
+[2024-05-08 23:53:46] http: ::1 GET /docs/swagger-ui.css 304 - - 6.261 ms
+
+[2024-05-08 23:53:46] http: ::1 GET /docs/swagger-ui-bundle.js 304 - - 9.337 ms
+
+[2024-05-08 23:53:46] http: ::1 GET /docs/swagger-ui-init.js 304 - - 3.179 ms
+
+[2024-05-08 23:53:46] http: ::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 45.671 ms
+
