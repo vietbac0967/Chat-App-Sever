@@ -36,7 +36,7 @@ const transports = [
   }),
   new DailyRotateFile({
     dirname: "logs",
-    filename: "application-%DATE%.info.log",
+    filename: "application-%DATE%.all.log",
     datePattern: "YYYY-MM-DD",
     zippedArchive: true,
     maxSize: "10m",
