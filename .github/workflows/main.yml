@@ -5,10 +5,9 @@ name: Node.js Package
 
 on:
   push:
-    branches: [ 'master']
+    branches: [ "master" ]
   pull_request:
-    branches: [ 'master']
-    types: [opened, synchronize, reopened]
+    branches: ["master"]
 jobs:
   build:
     runs-on: ubuntu-latest
